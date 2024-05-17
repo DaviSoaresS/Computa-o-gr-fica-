@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lighthouse
+* source:	https://sketchfab.com/3d-models/lighthouse-120c83f406f94f97b2f1a7443e64da13
+* author:	Xavier Toomer (https://sketchfab.com/xtoomer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lighthouse" (https://sketchfab.com/3d-models/lighthouse-120c83f406f94f97b2f1a7443e64da13) by Xavier Toomer (https://sketchfab.com/xtoomer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
